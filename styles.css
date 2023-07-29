@@ -2,47 +2,6 @@ html {
   scroll-behavior: smooth;
   font-family: 'Roboto';
 }
-<<<<<<< HEAD
-  h1{
-    font-family:monospace;
-    font-size: 24px;
-    Color: #f9faf8;
-background-color:#162c4b;
-  }
-  h2{
-    font-size: 48px;
-    font-family: "roboto-bold" ;
-    Color: #f9faf8;
-    margin-left: 90px;
-  }
-  header {
-    background-color: #1f2937;
-    color: #fff;
-    padding: 20px;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
-  #home{
-    background-color: #1f2937;
-  }
-  .hero{
-    display: flex;
-    flex-direction:row;
-    align-content: center;
-    align-items: center;
-    justify-content: center;
-    padding: 20px;
-  }
-.hero p{
-    font-size: 18px;
-    color: #e5e7eb;
-    margin-left: 100px;
-       }
-.hero .cta-button{
-  margin-left: 100px;
-
-=======
 .one-header {
   color: #E5E7EB;
   font-size: 18px;
@@ -108,7 +67,6 @@ figure p, a, figcaption {
   border: none;
   border-radius: 10px;
   margin-bottom: 16px;
->>>>>>> 9c9e17ad4b4c4107feb3ae1a05fee8b8cc84d35a
 }
 .btn:hover{
   opacity: 0.8;
