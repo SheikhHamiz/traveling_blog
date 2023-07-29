@@ -3,17 +3,6 @@
     font-family: "Roboto-BoldItalic";
     src: url(./Roboto/Roboto-BoldItalic.ttf);
 }
-@font-face {
-    font-family: "roboto-bold";
-    src: url(./Roboto/Roboto-Bold.ttf);
-    
-}
-@font-face {
-    font-family:"light-italic";
-    src: url(./Roboto/Roboto-LightItalic.ttf);
-}
-
-
   h1{
     font-family:monospace;
     font-size: 24px;
