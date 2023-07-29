@@ -10,6 +10,9 @@ html {
     left: 0;
     right: 0;
 }
+.menu a {
+    color: #E5E7EB;
+}
 .nav-header {
     background-color: #1F2937;
     height: 40px;
@@ -66,6 +69,7 @@ figure p, a, figcaption {
 }
 .img {
     width:300px;
+    height: 200px;
 }
 .footer {
     background-color:#1F2937;
