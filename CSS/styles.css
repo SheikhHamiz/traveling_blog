@@ -64,8 +64,8 @@ header {
 
 .image img {
 	height: 300px;
-	width: 350px;
-	border-radius: 25%;
+	width: 480px;
+	border-radius: 0%;
 	margin-right: 100px;
 }
 
